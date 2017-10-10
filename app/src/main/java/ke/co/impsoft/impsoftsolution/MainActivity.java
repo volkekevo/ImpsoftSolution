@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         //block external browser
 
 
-    }
+        }
 
     @Override
     public void onBackPressed() {
